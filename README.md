@@ -1,4 +1,4 @@
-# Trabalho-DWll-TRB-IV Q1
+//# Trabalho-DWll-TRB-IV Q1
 
 <?php
         for ($i = 1; $i <= 100; $i++) {
@@ -16,7 +16,9 @@
         }
         ?>
 
-# Trabalho-DWll-TRB-IV Q2
+
+//# Trabalho-DWll-TRB-IV Q2
+
 <?php
 
 echo "Informe um número: ";
@@ -30,7 +32,8 @@ if ($numero % 2 == 0) {
 ?>
 
 
-# Trabalho-DWll-TRB-IV Q3
+//# Trabalho-DWll-TRB-IV Q3
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -54,7 +57,8 @@ if ($numero % 2 == 0) {
 </html>
 
 
-# Trabalho-DWll-TRB-IV Q4
+//# Trabalho-DWll-TRB-IV Q4
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -130,7 +134,7 @@ if ($numero % 2 == 0) {
 
 
 
-# Trabalho-DWll-TRB-IV Q5
+// Trabalho-DWll-TRB-IV Q5
 
 <!DOCTYPE html>
 <html lang="pt-br">
