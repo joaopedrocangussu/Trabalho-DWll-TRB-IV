@@ -1,4 +1,4 @@
-//# Trabalho-DWll-TRB-IV Q1
+ Trabalho-DWll-TRB-IV Q1
 
 <?php
         for ($i = 1; $i <= 100; $i++) {
@@ -17,7 +17,7 @@
         ?>
 
 
-//# Trabalho-DWll-TRB-IV Q2
+Trabalho-DWll-TRB-IV Q2
 
 <?php
 
@@ -32,7 +32,7 @@ if ($numero % 2 == 0) {
 ?>
 
 
-//# Trabalho-DWll-TRB-IV Q3
+Trabalho-DWll-TRB-IV Q3
 
 <!DOCTYPE html>
 <html>
@@ -57,7 +57,7 @@ if ($numero % 2 == 0) {
 </html>
 
 
-//# Trabalho-DWll-TRB-IV Q4
+ Trabalho-DWll-TRB-IV Q4
 
 <!DOCTYPE html>
 <html lang="en">
@@ -134,7 +134,7 @@ if ($numero % 2 == 0) {
 
 
 
-// Trabalho-DWll-TRB-IV Q5
+ Trabalho-DWll-TRB-IV Q5
 
 <!DOCTYPE html>
 <html lang="pt-br">
@@ -192,7 +192,7 @@ if ($numero % 2 == 0) {
 </html>
 
 
-# Trabalho-DWll-TRB-IV Q6
+ Trabalho-DWll-TRB-IV Q6
 
 
 <!DOCTYPE html>
@@ -233,7 +233,7 @@ if ($numero % 2 == 0) {
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link disabled" aria-disabled="true">DEGUIMAR</a>
+                        <a class="nav-link disabled" aria-disabled="true">JOAO PEDRO</a>
                     </li>
                 </ul>
                 <form class="d-flex" role="search">
